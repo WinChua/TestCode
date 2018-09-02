@@ -1,0 +1,51 @@
+28816 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28816 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28816 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28816 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28816 +++ exited with 0 +++
+28817 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28817 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28817 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28817 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28817 +++ exited with 0 +++
+28818 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28818 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28818 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28818 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28818 +++ exited with 0 +++
+28819 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28819 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28819 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28819 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28819 +++ exited with 0 +++
+28820 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28820 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28820 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28820 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28820 +++ exited with 0 +++
+28821 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28821 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28821 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28821 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28821 +++ exited with 0 +++
+28822 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28822 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28822 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28822 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28822 +++ exited with 0 +++
+28823 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28823 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28823 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28823 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28823 +++ exited with 0 +++
+28824 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28824 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28824 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28824 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28824 +++ exited with 0 +++
+28825 sendto(4, "\24\0\0\0\26\0\1\3U\277\213[\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+28825 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"L\0\0\0\24\0\2\0U\277\213[\217p\0\0\2\10\200\376\1\0\0\0\10\0\1\0\177\0\0\1"..., 4096}], msg_controllen=0, msg_flags=0}, 0) = 164
+28825 recvmsg(4, {msg_name(12)={sa_family=AF_NETLINK, pid=0, groups=00000000}, msg_iov(1)=[{"\24\0\0\0\3\0\2\0U\277\213[\217p\0\0\0\0\0\0", 4096}], msg_controllen=0, msg_flags=0}, 0) = 20
+28825 sendto(3, "hello", 5, 0, NULL, 0) = 5
+28825 +++ exited with 0 +++
+28815 +++ exited with 0 +++
